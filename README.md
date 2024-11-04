@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Hi, my name is Tadas Darguzis](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Hi, my name is Tadas Darguzis](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=darguzis&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -40,4 +38,5 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=darguzis&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
 
